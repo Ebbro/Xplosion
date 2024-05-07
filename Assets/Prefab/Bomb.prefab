@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 4543635436941398271}
   - component: {fileID: 5444251085663035810}
   - component: {fileID: 3723260045476930727}
+  - component: {fileID: 688076117118615355}
   m_Layer: 0
   m_Name: Bomb
   m_TagString: Player
@@ -190,3 +191,21 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 4bbf06bce40ff074e873815b138f33c0, type: 2}
+--- !u!114 &688076117118615355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 540101668098121703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 782aa014dd1a528418babac5aa92ee7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  radius: 5
+  power: 100
+  lift: 10
+  speed: 500
+  explode: 0
+  life: 3

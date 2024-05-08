@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7217189102922331462}
   - component: {fileID: 2174985733262331473}
   m_Layer: 0
-  m_Name: Bombe_Grappolo
+  m_Name: Grappoli
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

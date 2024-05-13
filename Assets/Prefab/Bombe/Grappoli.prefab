@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: -6973954166953714082}
   - component: {fileID: -3719942939926539741}
   - component: {fileID: -4382462049504038870}
+  - component: {fileID: -720334294084838915}
   m_Layer: 0
   m_Name: Grappoli
   m_TagString: Untagged
@@ -153,7 +154,7 @@ MonoBehaviour:
   lift: 10
   speed: 500
   explode: 0
-  life: 3
+  life: 1
 --- !u!114 &-3719942939926539741
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -185,3 +186,21 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: b609cd1e51ade284c8fcd52d5fc30677, type: 2}
+--- !u!114 &-720334294084838915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7944711715450526784}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c40d5006c1ca0d54ab88766221c64dc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  radius: 5
+  power: 100
+  lift: 10
+  speed: 500
+  explode: 0
+  life: 1

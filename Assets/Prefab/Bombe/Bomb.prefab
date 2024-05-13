@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 5444251085663035810}
   - component: {fileID: 3723260045476930727}
   - component: {fileID: 688076117118615355}
+  - component: {fileID: 2164467751533108957}
   m_Layer: 0
   m_Name: Bomb
   m_TagString: Player
@@ -225,3 +226,15 @@ MonoBehaviour:
   speed: 500
   explode: 0
   life: 3
+--- !u!75 &2164467751533108957
+ConstantForce:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 540101668098121703}
+  m_Enabled: 1
+  m_Force: {x: 0, y: 0, z: 0}
+  m_RelativeForce: {x: 0, y: 0, z: 0}
+  m_Torque: {x: 0, y: 0, z: 0}
+  m_RelativeTorque: {x: 0, y: 0, z: 0}

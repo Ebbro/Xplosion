@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 3723260045476930727}
   - component: {fileID: 688076117118615355}
   - component: {fileID: 7797748388649405503}
+  - component: {fileID: 4547379332044386641}
   m_Layer: 0
   m_Name: Bomba_Grappolo
   m_TagString: Player
@@ -229,3 +230,15 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 5248fa885304f1b498267bfc7767fe79, type: 2}
+--- !u!75 &4547379332044386641
+ConstantForce:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 540101668098121703}
+  m_Enabled: 1
+  m_Force: {x: 0, y: 0, z: 0}
+  m_RelativeForce: {x: 0, y: 0, z: 0}
+  m_Torque: {x: 0, y: 0, z: 0}
+  m_RelativeTorque: {x: 0, y: 0, z: 0}

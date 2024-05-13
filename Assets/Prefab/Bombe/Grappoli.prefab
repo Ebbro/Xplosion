@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: -3719942939926539741}
   - component: {fileID: -4382462049504038870}
   - component: {fileID: -720334294084838915}
+  - component: {fileID: -5136968804332546294}
   m_Layer: 0
   m_Name: Grappoli
   m_TagString: Untagged
@@ -204,3 +205,15 @@ MonoBehaviour:
   speed: 500
   explode: 0
   life: 1
+--- !u!75 &-5136968804332546294
+ConstantForce:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7944711715450526784}
+  m_Enabled: 1
+  m_Force: {x: 0, y: 0, z: 0}
+  m_RelativeForce: {x: 0, y: 0, z: 0}
+  m_Torque: {x: 0, y: 0, z: 0}
+  m_RelativeTorque: {x: 0, y: 0, z: 0}

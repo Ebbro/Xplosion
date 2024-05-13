@@ -17,6 +17,7 @@ GameObject:
   - component: {fileID: 5859081324162287052}
   - component: {fileID: 2002436767630733997}
   - component: {fileID: 2379298804363961348}
+  - component: {fileID: 7064252804941045552}
   m_Layer: 0
   m_Name: Mini angry
   m_TagString: Player
@@ -209,3 +210,15 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 896ecc7b3d0cb7140a330fedebcfba3a, type: 2}
+--- !u!75 &7064252804941045552
+ConstantForce:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4126693390702792518}
+  m_Enabled: 1
+  m_Force: {x: 0, y: 0, z: 0}
+  m_RelativeForce: {x: 0, y: 0, z: 0}
+  m_Torque: {x: 0, y: 0, z: 0}
+  m_RelativeTorque: {x: 0, y: 0, z: 0}

@@ -10,6 +10,7 @@ TagManager:
   - Ceramica
   - Angry
   - Grappolo
+  - NotActiveCamera
   layers:
   - Default
   - TransparentFX

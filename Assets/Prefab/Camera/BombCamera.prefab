@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1996670227631792866}
   - component: {fileID: 7913926570240557856}
   m_Layer: 0
-  m_Name: Camera
+  m_Name: BombCamera
   m_TagString: NotActiveCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

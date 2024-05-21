@@ -62,7 +62,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 6945152448679359486, guid: d6a9a92078579e34585242a32e4dd812, type: 3}
-  - {fileID: -4973734387028869240, guid: d6a9a92078579e34585242a32e4dd812, type: 3}
+  - {fileID: 2100000, guid: ac778e09c325a514a8243940ced04141, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -265,8 +265,18 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Exploded","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"JumpCooldown","value":{"$content":0.2,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"MovementForceInAir","value":{"$content":0.2,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"MaterialListOff","value":{"$content":[0,1],"$type":"System.Collections.Generic.List`1[[UnityEngine.Material,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Material,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"MaterialListOn","value":{"$content":[2,3],"$type":"System.Collections.Generic.List`1[[UnityEngine.Material,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.Material,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _objectReferences:
+    - {fileID: 6945152448679359486, guid: d6a9a92078579e34585242a32e4dd812, type: 3}
+    - {fileID: 2100000, guid: ac778e09c325a514a8243940ced04141, type: 2}
+    - {fileID: 6945152448679359486, guid: d6a9a92078579e34585242a32e4dd812, type: 3}
+    - {fileID: 2100000, guid: 5e6b7455412bd584b9616cfb120a5b7e, type: 2}
 --- !u!114 &5859081324162287052
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -12,6 +12,7 @@ TagManager:
   - Grappolo
   - NotActiveCamera
   - Goal
+  - stickywall
   layers:
   - Default
   - TransparentFX

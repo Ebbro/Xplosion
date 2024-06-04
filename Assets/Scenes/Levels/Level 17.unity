@@ -374,7 +374,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6818222667517197618, guid: aee0dee73310a0349a313dacb6f783e0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.609
+      value: 22.25
       objectReference: {fileID: 0}
     - target: {fileID: 6818222667517197618, guid: aee0dee73310a0349a313dacb6f783e0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -629,7 +629,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3141100622017687591, guid: 0f4bc13e7e215194ea7a280e8bf0963c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.9892936
+      value: 21.869705
       objectReference: {fileID: 0}
     - target: {fileID: 3141100622017687591, guid: 0f4bc13e7e215194ea7a280e8bf0963c, type: 3}
       propertyPath: m_LocalRotation.w
@@ -737,6 +737,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Platform-mod (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5947770414641463063, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6049237094747801939, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Moving","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
@@ -750,7 +754,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196030761126249989, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.87
+      value: -5.4
       objectReference: {fileID: 0}
     - target: {fileID: 6196030761126249989, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
       propertyPath: m_LocalPosition.y
@@ -758,7 +762,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196030761126249989, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 38.92
+      value: 38.04
       objectReference: {fileID: 0}
     - target: {fileID: 6196030761126249989, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
       propertyPath: m_LocalRotation.w
@@ -949,6 +953,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Platform-mod
       objectReference: {fileID: 0}
+    - target: {fileID: 5947770414641463063, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6049237094747801939, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Moving","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
@@ -962,7 +970,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196030761126249989, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.68
+      value: 3.66
       objectReference: {fileID: 0}
     - target: {fileID: 6196030761126249989, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
       propertyPath: m_LocalPosition.y
@@ -970,7 +978,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6196030761126249989, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 5.94
+      value: 31.07
       objectReference: {fileID: 0}
     - target: {fileID: 6196030761126249989, guid: 83b047ded61d9a5438d28dd560076d91, type: 3}
       propertyPath: m_LocalRotation.w

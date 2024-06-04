@@ -14641,7 +14641,7 @@ GameObject:
   - component: {fileID: 61918319047782013}
   m_Layer: 0
   m_Name: SmallExplosion
-  m_TagString: Untagged
+  m_TagString: ExplosionEffect
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -13,6 +13,7 @@ TagManager:
   - NotActiveCamera
   - Goal
   - stickywall
+  - Paglia
   layers:
   - Default
   - TransparentFX

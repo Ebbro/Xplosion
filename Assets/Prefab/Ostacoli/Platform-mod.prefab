@@ -86,7 +86,6 @@ GameObject:
   - component: {fileID: 7081785835767771879}
   - component: {fileID: 1510376927826332015}
   - component: {fileID: 931276185607778719}
-  - component: {fileID: 2419756840444520969}
   m_Layer: 0
   m_Name: Graphic
   m_TagString: Untagged
@@ -195,19 +194,3 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
---- !u!114 &2419756840444520969
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4060557797711330308}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: 5c547a830adc47948b272826d1dc6d83, type: 2}

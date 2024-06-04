@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cube
+  - Wood
+  - Bomb
+  - Ceramica
+  - Angry
+  - Grappolo
+  - NotActiveCamera
+  - Goal
+  - stickywall
   layers:
   - Default
   - TransparentFX
@@ -11,7 +20,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - ActiveBomb
   - 
   - 
   - 

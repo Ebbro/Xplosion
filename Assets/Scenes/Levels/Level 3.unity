@@ -2398,7 +2398,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 239194567216983679, guid: 94abd4b64005fef4eb7679361917d76c, type: 3}
       propertyPath: m_Name
-      value: EndPoint
+      value: EndPointBeacon
       objectReference: {fileID: 0}
     - target: {fileID: 7556557059792942422, guid: 94abd4b64005fef4eb7679361917d76c, type: 3}
       propertyPath: m_LocalPosition.x

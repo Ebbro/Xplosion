@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 351551355232237805}
   - component: {fileID: 5362802836370344922}
   m_Layer: 0
-  m_Name: EndPoint
+  m_Name: EndPointBeacon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

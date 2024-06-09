@@ -247,8 +247,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 782aa014dd1a528418babac5aa92ee7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  radius: 50
-  power: 500
+  radius: 0
+  power: 0
   lift: 10
   speed: 500
   explode: 0

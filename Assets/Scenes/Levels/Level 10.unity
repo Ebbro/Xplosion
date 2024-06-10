@@ -658,23 +658,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 122185052670210329, guid: 08dba571dd53ae945a3ddadc4a117f34, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.26
+      value: 68
       objectReference: {fileID: 0}
     - target: {fileID: 122185052670210329, guid: 08dba571dd53ae945a3ddadc4a117f34, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.38
+      value: 41
       objectReference: {fileID: 0}
     - target: {fileID: 122185052670210329, guid: 08dba571dd53ae945a3ddadc4a117f34, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -8
+      value: -12
       objectReference: {fileID: 0}
     - target: {fileID: 122185052670210329, guid: 08dba571dd53ae945a3ddadc4a117f34, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.999688
+      value: 0.98964596
       objectReference: {fileID: 0}
     - target: {fileID: 122185052670210329, guid: 08dba571dd53ae945a3ddadc4a117f34, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.024976602
+      value: 0.1435303
       objectReference: {fileID: 0}
     - target: {fileID: 122185052670210329, guid: 08dba571dd53ae945a3ddadc4a117f34, type: 3}
       propertyPath: m_LocalRotation.y
@@ -835,7 +835,7 @@ PrefabInstance:
     - target: {fileID: 2265888503752354164, guid: a41a6dee3cce5dc4d888dcf90fc886b0, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"BombSelectorActiveForLevel","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Bombs","value":{"$content":[0,1,2,3,4],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Bombs","value":{"$content":[0,1],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"SelectedBomb","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
@@ -854,7 +854,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2265888503752354164, guid: a41a6dee3cce5dc4d888dcf90fc886b0, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2265888503752354164, guid: a41a6dee3cce5dc4d888dcf90fc886b0, type: 3}
       propertyPath: _data._objectReferences.Array.data[3]
@@ -1557,23 +1557,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5659416843404545132, guid: b2d11f4412025944382ce7200e557105, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.26
+      value: 68
       objectReference: {fileID: 0}
     - target: {fileID: 5659416843404545132, guid: b2d11f4412025944382ce7200e557105, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.38
+      value: 41
       objectReference: {fileID: 0}
     - target: {fileID: 5659416843404545132, guid: b2d11f4412025944382ce7200e557105, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -8
+      value: -12
       objectReference: {fileID: 0}
     - target: {fileID: 5659416843404545132, guid: b2d11f4412025944382ce7200e557105, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.999688
+      value: 0.98964596
       objectReference: {fileID: 0}
     - target: {fileID: 5659416843404545132, guid: b2d11f4412025944382ce7200e557105, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.024976602
+      value: 0.1435303
       objectReference: {fileID: 0}
     - target: {fileID: 5659416843404545132, guid: b2d11f4412025944382ce7200e557105, type: 3}
       propertyPath: m_LocalRotation.y

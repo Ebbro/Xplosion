@@ -954,6 +954,10 @@ PrefabInstance:
       value: Virtual_Camera_View_Level
       objectReference: {fileID: 0}
     - target: {fileID: 5383137981636155392, guid: a95649f3ee48fd7408cedaf7b71df2d1, type: 3}
+      propertyPath: m_FollowOffset.y
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5383137981636155392, guid: a95649f3ee48fd7408cedaf7b71df2d1, type: 3}
       propertyPath: m_FollowOffset.z
       value: -50
       objectReference: {fileID: 0}
@@ -963,7 +967,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7438428408990828141, guid: a95649f3ee48fd7408cedaf7b71df2d1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.1
+      value: 12.9
       objectReference: {fileID: 0}
     - target: {fileID: 7438428408990828141, guid: a95649f3ee48fd7408cedaf7b71df2d1, type: 3}
       propertyPath: m_LocalPosition.z
@@ -971,11 +975,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7438428408990828141, guid: a95649f3ee48fd7408cedaf7b71df2d1, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.99192303
       objectReference: {fileID: 0}
     - target: {fileID: 7438428408990828141, guid: a95649f3ee48fd7408cedaf7b71df2d1, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: 0.12684141
       objectReference: {fileID: 0}
     - target: {fileID: 7438428408990828141, guid: a95649f3ee48fd7408cedaf7b71df2d1, type: 3}
       propertyPath: m_LocalRotation.y
